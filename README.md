@@ -8,3 +8,7 @@ Deep NLP projects containing:
 4. Question Answering
 5. Speech Recognition
 6. Neural Machine translation.
+
+
+https://www.coursera.org/specializations/natural-language-processing#courses
+https://www.coursera.org/learn/language-processing
