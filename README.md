@@ -10,5 +10,5 @@ Deep NLP projects containing:
 6. Neural Machine translation.
 
 
-https://www.coursera.org/specializations/natural-language-processing#courses
-https://www.coursera.org/learn/language-processing
+- https://www.coursera.org/specializations/natural-language-processing#courses
+- https://www.coursera.org/learn/language-processing
