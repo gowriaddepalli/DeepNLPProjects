@@ -3,8 +3,12 @@
 Deep NLP projects containing:
 
 1. Toxic comments multi- label classification using CNN and RNNs( LSTM and GRU).
-2. Text Generation
-3. Neural Machine translation.
+2. Sequence to Sequence Learning with Neural Networks (https://github.com/bentrevett/pytorch-seq2seq)
+3. Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (https://github.com/bentrevett/pytorch-seq2seq)
+4. Neural Machine Translation by Jointly Learning to Align and Translate (https://github.com/bentrevett/pytorch-seq2seq)
+5. Packed Padded Sequences, Masking, Inference and BLEU (https://github.com/bentrevett/pytorch-seq2seq)
+6. Convolutional Sequence to Sequence Learning (https://github.com/bentrevett/pytorch-seq2seq)
+7. Attention Is All You Need (https://github.com/bentrevett/pytorch-seq2seq)
 
 
 - https://www.coursera.org/specializations/natural-language-processing#courses
