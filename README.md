@@ -11,7 +11,7 @@ Deep NLP projects containing:
 - https://www.coursera.org/learn/language-processing
 - https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome
 - https://www.coursera.org/learn/attention-models-in-nlp
-
+- https://github.com/bentrevett/pytorch-seq2seq
 
 
 
