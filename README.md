@@ -9,6 +9,7 @@ Deep NLP projects containing:
 5. Packed Padded Sequences, Masking, Inference and BLEU (https://github.com/bentrevett/pytorch-seq2seq)
 6. Convolutional Sequence to Sequence Learning (https://github.com/bentrevett/pytorch-seq2seq)
 7. Attention Is All You Need (https://github.com/bentrevett/pytorch-seq2seq)
+8. Visual Question Answering / Image Captioning
 
 
 - https://www.coursera.org/specializations/natural-language-processing#courses
