@@ -31,3 +31,47 @@ Deep NLP projects containing:
 - http://jalammar.github.io/illustrated-transformer/
 - http://jalammar.github.io/illustrated-bert/
 - https://jalammar.github.io/illustrated-gpt2/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
+
+
+## cs224n-Natural-Language-Processing-with-Deep-Learning
+Course under stanford: Natural Language Processing with Deep Learning
+
+Link: http://web.stanford.edu/class/cs224n/
+
+Topics:
+
+- Introduction and Word Vectors
+- Gensim word vectors example
+- Word Vectors 2 and Word Senses
+- Word Window Classification, Neural Networks, and PyTorch
+- Matrix Calculus and Backpropagation
+- Linguistic Structure: Dependency Parsing
+- The probability of a sentence? Recurrent Neural Networks and Language Models
+- Vanishing Gradients and Fancy RNNs
+- Machine Translation, Seq2Seq and Attention
+- Practical Tips for Final Projects
+- Question Answering, the Default Final Project, and an introduction to Transformer architectures
+- ConvNets for NLP
+- Information from parts of words (Subword Models)
+- Contextual Word Representations: BERT 
+- Modeling contexts of use: Contextual Representations and Pretraining. ELMo and BERT.
+- Natural Language Generation
+- Reference in Language and Coreference Resolution
+- Fairness and Inclusion in AI
+- Constituency Parsing and Tree Recursive Neural Networks
+- HuggingFace Transformers
+- Recent Advances in Low Resource Machine Translation
+- Analysis and Interpretability of Neural NLP
+- GPT3 language model (https://www.youtube.com/watch?v=SY5PvZrJhLE)
+
+
+Youtube:
+
+https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+
+
+#### Work to be done: - coursera nlp deeplearning.ai 
+
+- Attention models
+- Transformers(BERT, GPT3)
+- seq2seq models (Machine Translation)
