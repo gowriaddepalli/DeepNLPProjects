@@ -15,7 +15,7 @@ Deep NLP projects containing:
 ## References:
 
 - https://www.coursera.org/learn/language-processing.  [ week 4,5]
-- https://www.coursera.org/learn/attention-models-in-nlp
+- https://www.coursera.org/learn/attention-models-in-nlp [ all - seq, attention, transformers]
 - https://github.com/bentrevett/pytorch-seq2seq
 
 
