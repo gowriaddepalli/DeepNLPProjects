@@ -12,6 +12,9 @@ Deep NLP projects containing:
 8. Visual Question Answering / Image Captioning
 
 
+## References:
+
+
 - https://www.coursera.org/specializations/natural-language-processing#courses
 - https://www.coursera.org/learn/language-processing
 - https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome
