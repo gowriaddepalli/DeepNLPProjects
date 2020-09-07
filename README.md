@@ -38,6 +38,8 @@ word2vec --> seq2seq with attention --> transformer --> BERT, ELMO --> GPT2/GPT3
 
 - http://jalammar.github.io/
 
+- https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc  (Types of attention)
+
 
 ## cs224n-Natural-Language-Processing-with-Deep-Learning
 Course under stanford: Natural Language Processing with Deep Learning
