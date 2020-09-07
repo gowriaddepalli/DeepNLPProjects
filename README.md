@@ -32,6 +32,12 @@ Deep NLP projects containing:
 - http://jalammar.github.io/illustrated-bert/
 - https://jalammar.github.io/illustrated-gpt2/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
 
+## Flow
+
+word2vec --> seq2seq with attention --> transformer --> BERT, ELMO --> GPT2/GPT3
+
+- http://jalammar.github.io/
+
 
 ## cs224n-Natural-Language-Processing-with-Deep-Learning
 Course under stanford: Natural Language Processing with Deep Learning
